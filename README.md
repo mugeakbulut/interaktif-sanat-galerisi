@@ -9,6 +9,8 @@
 
 An innovative digital art gallery that brings artworks to life using AI technology, enabling visitors to have conversational interactions with the exhibits.
 
+Video => https://www.youtube.com/watch?v=7lgoUrPDVeQ
+
 ### 🎨 Features
 
 - **Multilingual Support**: Full English and Turkish language interface
@@ -174,4 +176,4 @@ Uygulamayı dağıtmak için:
 
 ---
 
-*© 2023 Created by Müge Akbulut*
+*© 2025 Created by Müge Akbulut*
