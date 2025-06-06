@@ -11,6 +11,9 @@ An innovative digital art gallery that brings artworks to life using AI technolo
 
 Video => https://www.youtube.com/watch?v=7lgoUrPDVeQ
 
+
+![Resim1](https://github.com/user-attachments/assets/aee8832c-ef2c-4e6d-b67e-cdae1f3468ff)
+
 ### Features
 
 - **Multilingual Support**: Full English and Turkish language interface
