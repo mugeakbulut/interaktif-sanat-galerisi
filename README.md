@@ -11,7 +11,7 @@ An innovative digital art gallery that brings artworks to life using AI technolo
 
 Video => https://www.youtube.com/watch?v=7lgoUrPDVeQ
 
-### 🎨 Features
+### Features
 
 - **Multilingual Support**: Full English and Turkish language interface
 - **Semantic Search**: Find artworks using natural language queries (e.g., "melancholic artworks" or "blue seascapes")
@@ -22,7 +22,7 @@ Video => https://www.youtube.com/watch?v=7lgoUrPDVeQ
 - **Voice Search**: Search the gallery using voice commands
 - **Responsive Design**: Optimized for all devices
 
-### 🔧 Technical Details
+### Technical Details
 
 This project leverages several advanced technologies:
 
@@ -32,7 +32,7 @@ This project leverages several advanced technologies:
 - **State Management**: React Hooks and Context API
 - **API**: RESTful endpoints with OpenAI integration
 
-### 🚀 Getting Started
+### Getting Started
 
 1. Clone the repository
    ```
@@ -57,7 +57,7 @@ This project leverages several advanced technologies:
 
 5. Access the gallery at [http://localhost:3000](http://localhost:3000)
 
-### 📋 Image Configuration
+### Image Configuration
 
 Images should be placed in a web-accessible directory with a naming convention of 1.jpg, 2.jpg, etc., corresponding to the artwork IDs in the `artworks.json` file.
 
@@ -71,7 +71,7 @@ You can modify this path in:
 - `src/pages/api/recommend.js`
 - `src/pages/artwork/[id]/index.js`
 
-### 🌐 Deployment
+### Deployment
 
 To deploy the application:
 
@@ -82,7 +82,7 @@ To deploy the application:
 
 2. Deploy the generated `.next` folder to your hosting provider.
 
-### 🧠 How the AI Works
+### How the AI Works
 
 1. **Artwork Personification**: Each artwork is given a unique AI personality based on its metadata (description, style, colors, etc.)
 2. **Natural Language Processing**: The system analyzes user queries to find relevant artworks based on semantic understanding
@@ -96,7 +96,7 @@ To deploy the application:
 
 Yapay zeka teknolojisiyle sanat eserlerini canlandıran, ziyaretçilerin eserlerle sohbet edebilmesini sağlayan yenilikçi bir dijital sanat galerisi.
 
-### 🎨 Özellikler
+### Özellikler
 
 - **Çoklu Dil Desteği**: Tam Türkçe ve İngilizce arayüz
 - **Anlamsal Arama**: Doğal dil sorguları kullanarak eserleri bulma (örn. "hüzünlü eserler" veya "mavi deniz manzaraları")
@@ -107,7 +107,7 @@ Yapay zeka teknolojisiyle sanat eserlerini canlandıran, ziyaretçilerin eserler
 - **Sesli Arama**: Ses komutları kullanarak galeriyi arama
 - **Duyarlı Tasarım**: Tüm cihazlar için optimize edilmiş
 
-### 🔧 Teknik Detaylar
+### Teknik Detaylar
 
 Bu proje çeşitli gelişmiş teknolojileri kullanmaktadır:
 
@@ -117,7 +117,7 @@ Bu proje çeşitli gelişmiş teknolojileri kullanmaktadır:
 - **Durum Yönetimi**: React Hooks ve Context API
 - **API**: OpenAI entegrasyonu ile RESTful endpoints
 
-### 🚀 Başlangıç
+### Başlangıç
 
 1. Depoyu klonlayın
    ```
@@ -142,7 +142,7 @@ Bu proje çeşitli gelişmiş teknolojileri kullanmaktadır:
 
 5. Galeriye [http://localhost:3000](http://localhost:3000) adresinden erişin
 
-### 📋 Resim Yapılandırması
+### Resim Yapılandırması
 
 Resimler, web erişimine açık bir dizinde 1.jpg, 2.jpg vb. şeklinde, `artworks.json` dosyasındaki eser ID'lerine karşılık gelen bir adlandırma kuralıyla yerleştirilmelidir.
 
@@ -156,7 +156,7 @@ Bu yolu şu dosyalarda değiştirebilirsiniz:
 - `src/pages/api/recommend.js`
 - `src/pages/artwork/[id]/index.js`
 
-### 🌐 Dağıtım
+### Dağıtım
 
 Uygulamayı dağıtmak için:
 
@@ -167,7 +167,7 @@ Uygulamayı dağıtmak için:
 
 2. Oluşturulan `.next` klasörünü hosting sağlayıcınıza yükleyin.
 
-### 🧠 Yapay Zeka Nasıl Çalışıyor
+### Yapay Zeka Nasıl Çalışıyor
 
 1. **Eser Kişileştirme**: Her esere, metaverilerine (açıklama, stil, renkler vb.) dayalı benzersiz bir yapay zeka kişiliği verilir
 2. **Doğal Dil İşleme**: Sistem, anlamsal anlayışa dayalı ilgili eserleri bulmak için kullanıcı sorgularını analiz eder
