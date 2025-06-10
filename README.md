@@ -101,7 +101,7 @@ Yapay zeka teknolojisiyle sanat eserlerini canlandıran, ziyaretçilerin eserler
 
 ### Özellikler
 
-- **Çoklu Dil Desteği**: Tam Türkçe ve İngilizce arayüz
+- **Çoklu Dil Desteği**: Türkçe ve İngilizce arayüz
 - **Anlamsal Arama**: Doğal dil sorguları kullanarak eserleri bulma (örn. "hüzünlü eserler" veya "mavi deniz manzaraları")
 - **Renk Bazlı Keşif**: Eserleri baskın renklerine göre filtreleme
 - **İnteraktif Sohbetler**: Yapay zeka destekli kişileştirme ile eserlerle doğrudan sohbet etme
@@ -116,34 +116,34 @@ Bu proje çeşitli gelişmiş teknolojileri kullanmaktadır:
 
 - **Ön Yüz**: Next.js, React, TailwindCSS, Framer Motion
 - **Yapay Zeka Entegrasyonu**: OpenAI API (GPT-4 ve GPT-3.5 modelleri)
-- **Uluslararasılaştırma**: Çok dilli destek için next-i18next
+- **Çokdillilik**: Çok dilli destek için next-i18next
 - **Durum Yönetimi**: React Hooks ve Context API
 - **API**: OpenAI entegrasyonu ile RESTful endpoints
 
 ### Başlangıç
 
-1. Depoyu klonlayın
+1. Depoyu klonlayınız
    ```
    git clone https://github.com/kullaniciadi/ai-art-gallery.git
    cd ai-art-gallery
    ```
 
-2. Bağımlılıkları yükleyin
+2. Bağımlılıkları yükleyiniz
    ```
    npm install
    ```
 
-3. `.env.local` dosyası oluşturun ve OpenAI API anahtarınızı ekleyin
+3. `.env.local` dosyası oluşturup  OpenAI API anahtarınızı ekleyiniz
    ```
    OPENAI_API_KEY=anahtariniz_buraya
    ```
 
-4. Geliştirme sunucusunu başlatın
+4. Geliştirme sunucusunu başlatınız
    ```
    npm run dev
    ```
 
-5. Galeriye [http://localhost:3000](http://localhost:3000) adresinden erişin
+5. Galeriye [http://localhost:3000](http://localhost:3000) adresinden erişiniz
 
 ### Resim Yapılandırması
 
@@ -170,7 +170,7 @@ Uygulamayı dağıtmak için:
 
 2. Oluşturulan `.next` klasörünü hosting sağlayıcınıza yükleyin.
 
-### Yapay Zeka Nasıl Çalışıyor
+### Yapay Zeka Nasıl Çalışıyor?
 
 1. **Eser Kişileştirme**: Her esere, metaverilerine (açıklama, stil, renkler vb.) dayalı benzersiz bir yapay zeka kişiliği verilir
 2. **Doğal Dil İşleme**: Sistem, anlamsal anlayışa dayalı ilgili eserleri bulmak için kullanıcı sorgularını analiz eder
